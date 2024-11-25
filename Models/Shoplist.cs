@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using SQLite;
-namespace Nume_Pren_Lab7.Models
+namespace SuteuDariusLab7.Models
 {
     public class ShopList
     {

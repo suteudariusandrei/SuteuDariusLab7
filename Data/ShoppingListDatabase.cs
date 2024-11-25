@@ -5,7 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SuteuDariusLab7.Models;
-using Nume_Pren_Lab7.Models;
 
 
 namespace SuteuDariusLab7.Data
@@ -44,5 +43,4 @@ namespace SuteuDariusLab7.Data
             return _database.DeleteAsync(slist);
         }
     }
-}
 }
